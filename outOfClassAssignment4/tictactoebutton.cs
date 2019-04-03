@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+//Ivan Rivas
+//This is my own work
 
 namespace outOfClassAssignment4
 {
